@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HelloApp.MainPage">
+
+    <StackLayout x:Name="stackLayout" Spacing="8" Orientation="Horizontal">
+        <Label Text="Анастасия"/>
+        <Label Text="ПКС-30к"/>
+        <Label Text="Хочу спать"/>
+        <Image Source="https://pbs.twimg.com/media/E_zanesUcAEyt8u.jpg"></Image>
+    </StackLayout>
+</ContentPage>
